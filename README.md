@@ -7,7 +7,7 @@
 полноценное изучения стартовало  в 2023 году в школе Hillel, именно там я и начал изучать Front-end. В настоящее время я закончил
 2 курса, активно начал писать код, изучаю и практикую новые фреймворки, библеотеки и т.д. Активно изучаю Английский язык. В скором времени планирую начать свою карьеру именно в этой сфере!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kanovrs) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kanovrs@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kanovrs) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kanovrs@gmail.com)
 ---
 ### 📱 Социальные сети:
 
