@@ -27,8 +27,8 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| <a href = "certificate.ithillel.ua/view/69365059">certificate.ithillel.ua/view/69365059</a>                           | 08/2023 - 12/2022 |
-| certificate.ithillel.ua/view/11221079                           | 08/2023 - 12/2022 |
+| <a href = "https://certificate.ithillel.ua/view/69365059">certificate.ithillel.ua/view/69365059</a>                           | 08/2023 - 12/2022 |
+| <a href = "https://certificate.ithillel.ua/view/11221079">certificate.ithillel.ua/view/11221079</a>                           | 08/2023 - 12/2022 |
 
 --- 
 
