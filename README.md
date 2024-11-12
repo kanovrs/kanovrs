@@ -2,7 +2,8 @@
 
 ---
 ### 🤖 About Me
-I graduated from Hillel IT school where I got basic knowledge of HTML, CSS, JS. During my studies, I was already writing small solutions for Google Sheets, which made my job easier. I enjoy learning as well as solving real-world problems through programming. Now I am actively looking for a team with whom I can develop skills and create new products.I am learning English. I plan to start my career in this very field soon!
+Front-End developer with deep knowledge and hands-on experience across a wide range of modern technologies. My background includes creating automated solutions for team workflows and developing complex applications to streamline processes. I am highly motivated to explore new technologies and enjoy tackling real-world challenges through code. I’m currently looking for a team where I can continue to grow, share my expertise, and contribute to innovative products.
+
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kanovrs) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kanovrs@gmail.com)
 ---
