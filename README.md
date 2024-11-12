@@ -24,8 +24,8 @@ I graduated from Hillel IT school where I got basic knowledge of HTML, CSS, JS. 
 
 | courses                                                           | Date              |
 | ----------------------------------------------------------------| :---------------: |
-| <a href = "https://certificate.ithillel.ua/view/69365059">certificate.ithillel.ua/view/69365059</a>                           | 08/2023 - 12/2022 |
-| <a href = "https://certificate.ithillel.ua/view/11221079">certificate.ithillel.ua/view/11221079</a>                           | 08/2023 - 12/2022 |
+| <a href = "https://certificate.ithillel.ua/view/69365059">certificate.ithillel.ua/view/69365059</a>                           | 12/2022 - 08/2023 |
+| <a href = "https://certificate.ithillel.ua/view/11221079">certificate.ithillel.ua/view/11221079</a>                           | 12/2022 - 08/2023 |
 
 --- 
 
